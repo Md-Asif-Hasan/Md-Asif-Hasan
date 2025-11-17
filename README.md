@@ -84,7 +84,6 @@ I'm **Md Asif Hasan**, a Software Engineer (BSc — EEE, BUET) focused on cross-
 
 ## 🗂️ Research & Thesis
 - Thesis: **VAE-based keyframe extraction & summarization** (Supervisor: Dr. S. M. Mahbubur Rahman, BUET).  
-- Submitted paper: **FIRE-AID: Autonomous Fire Rescue Assistant Drone** (YOLO-based detection & UAV telepresence).
 
 ---
 
