@@ -24,7 +24,7 @@ I'm **Md Asif Hasan**, a Software Engineer (BSc — EEE, BUET) focused on cross-
 - 🔭 Currently: building a **Short Video Sharing Social Media App** & improving video captioning models (VAE, Transformer-based).
 - 🌱 Learning: **Kubernetes & Microservices**
 - 🛠️ Comfortable with: **Flutter**, Python ML stack, Arduino, and embedded firmware
-- 📫 Reach me: **h.asif26@yahoo.com** | +8801769920324
+- 📫 Reach me: **h.asif26@yahoo.com**
 - 🌐 LinkedIn: https://www.linkedin.com/in/md-asif-hasan-b68b66201/
 - 🔗 GitHub: https://github.com/Md-Asif-Hasan
 
@@ -76,7 +76,7 @@ I'm **Md Asif Hasan**, a Software Engineer (BSc — EEE, BUET) focused on cross-
 ---
 
 ## 🏆 Education & Certifications
-- **BSc — Electrical & Electronic Engineering**, Bangladesh University of Engineering & Technology (BUET) — CGPA 3.41/4.00  
+- **BSc — Electrical & Electronic Engineering**, Bangladesh University of Engineering & Technology (BUET)
 - IELTS: **7.5** • GRE: **304**  
 - Courses: FreeCodeCamp (JS Algorithms), IBM (EDA for ML), IBM Cloud Essentials
 
