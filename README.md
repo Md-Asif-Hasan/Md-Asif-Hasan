@@ -98,7 +98,7 @@ I’m open to collaborations (mobile/ML/embedded). If you have a project or idea
 
 ## ✨ Fun facts
 - Pronouns: **Tech Nerd, PC Enthusiast**  
-- Extracurricular: Regional Science Olympiad winner, mentor at English Language Club
+- Extracurricular: Regional Science Olympiad winner, past memeber of Mentors English Language Club
 
 ---
 
