@@ -19,11 +19,10 @@
 ---
 
 ## 👋 About me
-I'm **Md Asif Hasan**, a Software Engineer (BSc — EEE, BUET) focused on cross-domain AI engineering — mobile apps, video captioning, and embedded systems. I build practical ML systems and hardware prototypes that solve real problems.
+I'm **Md Asif Hasan**, a Software Engineer (BSc — EEE, BUET) focused on cross-domain AI engineering —Web Desing, AI, and embedded systems. I build practical ML systems and hardware prototypes that solve real problems.
 
-- 🔭 Currently: building a **Short Video Sharing Social Media App** & improving video captioning models (VAE, Transformer-based).
-- 🌱 Learning: **Kubernetes & Microservices**
-- 🛠️ Comfortable with: **Flutter**, Python ML stack, Arduino, and embedded firmware
+- 🌱 Learning: **MERN web design**
+- 🛠️ Comfortable with: Python ML stack, Arduino, and embedded firmware
 - 📫 Reach me: **h.asif26@yahoo.com**
 - 🌐 LinkedIn: https://www.linkedin.com/in/md-asif-hasan-b68b66201/
 - 🔗 GitHub: https://github.com/Md-Asif-Hasan
@@ -33,10 +32,10 @@ I'm **Md Asif Hasan**, a Software Engineer (BSc — EEE, BUET) focused on cross-
 ## 🧰 Tools & Technologies
 
 **Languages & Frameworks**
-`Dart` `Flutter` `Kotlin` `Java` `Python` `C` `C++` `JavaScript` `Node.js` `Express` `HTML` `CSS` `SQL`
+ `Python` `C` `C++` `JavaScript` `Node.js` `Express` `HTML` `CSS` `SQL`
 
 **Platforms & Tools**
-`Firebase` `MySQL` `Docker` `AWS` `Arduino` `STM32` `ffmpeg` `git` `PCBweb` `AutoCAD`
+ `MySQL` `Docker` `AWS` `Arduino` `STM32` `ffmpeg` `git` `PCBweb` `AutoCAD`
 
 **ML & CV**
 `PyTorch` / `TensorFlow` (projects: VAE for keyframe extraction, YOLO for detection, BLIP for captions)
