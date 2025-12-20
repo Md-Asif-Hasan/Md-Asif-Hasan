@@ -23,7 +23,7 @@ I’m **Md Asif Hasan**, a **BSc graduate in Electrical & Electronic Engineering
 
 I enjoy building **end-to-end systems**—from AI models and simulations to real-world hardware prototypes and deployed applications.
 
-- 🎓 **BSc in EEE**, BUET (CGPA: 3.41/4.00)
+- 🎓 **BSc in EEE**, BUET 
 - 🔬 Research focus: **Video summarization, keyframe extraction, deep learning**
 - 🧠 Interests: ML, CV, IoT, Embedded Systems, Full-stack Web
 - 📫 Email: **h.asif26@yahoo.com**
@@ -66,6 +66,11 @@ PCB Design • Sensors • IoT Systems
 ---
 
 ## 🚀 Academic & Technical Projects
+
+-**Django based Web Application Development and Deploy**
+  Built an web app named SkillOryx using Django, HTML5, CSS3, JS, Bootstrap is a modern, community-driven 
+  skill-swapping platform built with Django.
+  🔗 https://skilloryx.onrender.com/
 
 - **Video Classification System Using Machine Learning**  
   Python-based ML system for efficient video content categorization  
