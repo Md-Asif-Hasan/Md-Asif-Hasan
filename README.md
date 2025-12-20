@@ -67,7 +67,7 @@ PCB Design • Sensors • IoT Systems
 
 ## 🚀 Academic & Technical Projects
 
--**Django based Web Application Development and Deploy**
+- **Django based Web Application Development and Deploy**
   Built an web app named SkillOryx using Django, HTML5, CSS3, JS, Bootstrap is a modern, community-driven 
   skill-swapping platform built with Django.
   🔗 https://skilloryx.onrender.com/
