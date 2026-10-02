@@ -64,9 +64,6 @@ PCB Design • Sensors • IoT Systems
 📍 Dhaka, Bangladesh | 🗓️ Jun 2024 – Jul 2024  
 - Monitored cellular networks and operations
 
-### **BUET Power Plant Visit**
-**Student Participant**  
-📍 Dhaka, Bangladesh | 🗓️ Aug 2023 – Sep 2023  
 
 ---
 
