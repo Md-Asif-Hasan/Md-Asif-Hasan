@@ -1,164 +1,214 @@
 <!--
   Profile README for Md Asif Hasan
-  Repo name must match GitHub username exactly
+  Repository name must match the GitHub username exactly
 -->
+
+<div align="center">
+
 # MD ASIF HASAN
 
-<p align="center">
-  <a href="https://github.com/Md-Asif-Hasan"><img src="https://img.shields.io/github/followers/Md-Asif-Hasan?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/md-asif-hasan-b68b66201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:h.asif26@yahoo.com"><img src="https://img.shields.io/badge/Email-h.asif26%40yahoo.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Montr%C3%A9al%2C%20Canada-007ACC?style=flat" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/Md-Asif-Hasan?label=Follow&style=social)](https://github.com/Md-Asif-Hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-asif-hasan-b68b66201/)
+[![Email](https://img.shields.io/badge/Email-h.asif26%40yahoo.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:h.asif26@yahoo.com)
+![Location](https://img.shields.io/badge/Location-Montr%C3%A9al%2C%20Canada-007ACC?style=flat)
+
+**Electrical & Electronics Engineer · AI Researcher · Full-Stack & Mobile Developer**
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 👋 About Me
 
-I'm **Md Asif Hasan**, an electrical and electronics engineering graduate from **BUET**, now pursuing a **Master's in Electrical Engineering (AI concentration) at McGill University**.
+</div>
 
-What sets me apart is that I don't just study AI — I **ship it**, across both software and hardware. I've independently built and published AI-powered apps on Google Play, built IoT systems end-to-end, and published research in explainable ML for urban climate mapping. I like taking a technical idea all the way from a trained model or embedded system to a real product people actually use.
+I'm **Md Asif Hasan**, an Electrical and Electronics Engineering graduate from **Bangladesh University of Engineering and Technology (BUET)**, currently pursuing a **Master of Engineering in Electrical Engineering with an Artificial Intelligence concentration** at **McGill University**.
 
-- 🎓 **M.Eng. (AI concentration)**, McGill University — ongoing
-- 🎓 **BSc in EEE**, BUET (2020–2025)
-- 🔬 Research: **Explainable ML, remote sensing, video summarization, deep learning**
-- 🧠 Interests: ML, Computer Vision, IoT, Embedded Systems, Mobile & Full-stack Development
-- 📫 Email: **h.asif26@yahoo.com**
+I combine academic research with applied engineering, building and publishing AI-powered applications across software and hardware. My work spans machine learning, computer vision, embedded systems, IoT, mobile development, and full-stack development.
+
+- 🎓 **M.Eng. in Electrical Engineering (AI concentration)** — McGill University *(ongoing)*
+- 🎓 **B.Sc. in Electrical and Electronic Engineering** — BUET, 2020–2025
+- 🔬 **Research interests:** Explainable ML, remote sensing, video summarization, and deep learning
+- 🧠 **Technical interests:** ML, computer vision, IoT, embedded systems, and mobile/full-stack development
+- 📫 **Email:** [h.asif26@yahoo.com](mailto:h.asif26@yahoo.com)
 
 ---
+
+<div align="center">
 
 ## 🛠️ Skills & Technologies
 
+</div>
+
 ### Programming
+
 `Python` `C` `C++` `MATLAB` `JavaScript` `SQL` `PHP` `HTML` `CSS`
 
 ### Machine Learning & AI
+
 `PyTorch` `TensorFlow` `OpenCV`  
-Neural Networks • Computer Vision • On-device Models • Explainable ML • Keyframe Extraction
+Neural networks · Computer vision · On-device models · Explainable ML · Keyframe extraction
 
 ### Mobile & Web Development
+
 `React` `Next.js` `Vite` `React Native` `Flutter` `Firebase` `Django` `Node.js` `Express` `Bootstrap`
 
-### Embedded & Hardware
+### Embedded Systems & Hardware
+
 `Arduino` `STM32` `Proteus` `PSpice`  
-PCB Design • Sensors • IoT Systems
+PCB design · Sensors · IoT systems
 
 ### Tools & Platforms
-`Git` `Docker` `AWS` `AutoCAD` `ffmpeg`  
-`MS Word` `Excel` `PowerPoint` `Adobe Tools`
+
+`Git` `Docker` `AWS` `AutoCAD` `FFmpeg`  
+Microsoft Word · Excel · PowerPoint · Adobe Creative Tools
 
 ---
+
+<div align="center">
 
 ## 💼 Experience
 
-### **Mariana Agency**
+</div>
+
+### Mariana Agency
+
 **Intern**  
-📍 Dhaka, Bangladesh | 🗓️ Jul 2026  
-- Developed Flutter and React Native apps for SaaS and PaaS products
+Dhaka, Bangladesh · July 2026
 
-### **Banglalink**
+- Developed Flutter and React Native applications for SaaS and PaaS products
+
+### Banglalink
+
 **Industrial Attaché**  
-📍 Dhaka, Bangladesh | 🗓️ Jun 2024 – Jul 2024  
-- Monitored cellular networks and operations
+Dhaka, Bangladesh · June 2024–July 2024
 
+- Monitored cellular network operations and infrastructure performance
+
+---
+
+<div align="center">
+
+## 📱 Published Applications
+
+</div>
+
+### TAKA JACHAI (টাকা যাচাই নিমিষে)
+
+A Next.js/React Android application published on Google Play. It detects counterfeit Bangladeshi Taka notes using an on-device AI model trained for mobile inference.
+
+### MindForge Arena
+
+A React/Vite Android application published on Google Play. Features include Firebase authentication, Firestore cloud storage, AI-generated IQ tests, adaptive difficulty, real-time multiplayer games, leaderboards, and cloud synchronization.
+
+### SkillOryx
+
+A community-driven skill-swapping platform built with Django, HTML5, CSS3, JavaScript, and Bootstrap.  
+🔗 [Live Project](https://skilloryx.onrender.com/)
+
+<!-- Add Google Play links for TAKA JACHAI and MindForge Arena when available. -->
 
 ---
 
-## 📱 Published Apps
-
-- **TAKA JACHAI (টাকা যাচাই নিমিষে)** — Next.js/React Android app on Google Play that detects counterfeit Bangladeshi Taka notes using an on-device AI model I trained myself with open-source resources.  
-  <!-- 🔗 Add Google Play link here -->
-
-- **MindForge Arena** — React/Vite Android app on Google Play with Firebase Auth and Firestore: AI-generated IQ tests, adaptive difficulty, real-time multiplayer games, cloud sync, leaderboards and analytics.  
-  <!-- 🔗 Add Google Play link here -->
-
-- **SkillOryx** — Community-driven skill-swapping web platform built with Django, HTML5, CSS3, JS and Bootstrap.  
-  🔗 https://skilloryx.onrender.com/
-
----
+<div align="center">
 
 ## 🚀 Academic & Technical Projects
 
-- **Autonomous Drone for Human Detection in Disaster Environments**  
-  AI-driven indoor drone for search and rescue using computer vision and real-time navigation  
-  🔗 https://github.com/Md-Asif-Hasan/Autonomous-Rescue-Drone-
+</div>
 
-- **IoT-based Automated Chicken Brooding System**  
-  Arduino Cloud–based environmental control system for poultry farming  
-  🔗 https://github.com/Md-Asif-Hasan/Smart-IoT-based-Chicken-Brooding-system
+- **[Autonomous Drone for Human Detection in Disaster Environments](https://github.com/Md-Asif-Hasan/Autonomous-Rescue-Drone-)**  
+  AI-driven indoor drone for search and rescue, featuring computer vision and real-time navigation.
 
-- **Power Grid Load Forecasting**  
-  Python neural network model for predicting grid demand  
-  🔗 https://github.com/Md-Asif-Hasan/Power-Grid-Load-Forecasting-Using-Neural-Networks
+- **[IoT-Based Automated Chicken Brooding System](https://github.com/Md-Asif-Hasan/Smart-IoT-based-Chicken-Brooding-system)**  
+  Arduino Cloud-based environmental monitoring and control system for poultry farming.
 
-- **SweepBot – Autonomous Floor Cleaning Robot**  
-  Low-cost robotic cleaner with ultrasonic safety, L298N motor control and state-machine-based operation  
-  🔗 https://github.com/Md-Asif-Hasan/SweepBot-Automated-Floor-Cleaner-Robot-Project-
+- **[Power Grid Load Forecasting](https://github.com/Md-Asif-Hasan/Power-Load-Forecasting-Using-Neural-Networks)**  
+  Neural network model for predicting electrical grid demand.
 
-- **Video Classification System Using Machine Learning**  
-  Python-based ML system for efficient video content categorization  
-  🔗 https://github.com/Md-Asif-Hasan/Video-Classification-System-Using-Machine-Learning
+- **[SweepBot – Autonomous Floor Cleaning Robot](https://github.com/Md-Asif-Hasan/SweepBot-Automated-Floor-Cleaner-Robot-Project-)**  
+  Low-cost robotic cleaner using ultrasonic sensing, L298N motor control, and state-machine-based operation.
 
-- **VAE-based Video Keyframe Extraction & Summarization**  
-  Deep learning model for summarizing long videos using Variational Autoencoders
+- **[Video Classification System Using Machine Learning](https://github.com/Md-Asif-Hasan/Video-Classification-System-Using-Machine-Learning)**  
+  Python-based machine learning system for efficient video content categorization.
 
-- **Heart Rate Tracking System (Wearable)**  
-  MATLAB-based real-time BPM monitoring and alert system  
-  🔗 https://github.com/Md-Asif-Hasan/Heart-Beat-monitoring-interface-and-alarm-system-for-health-issues
+- **VAE-Based Video Keyframe Extraction & Summarization**  
+  Deep learning framework for summarizing long videos using Variational Autoencoders.
 
-- **Voice Recognition Home Security System**  
-  Speech-authentication-based access control system  
-  🔗 https://github.com/Md-Asif-Hasan/Voice-Recognition-System-for-Home-Security-Project
+- **[Heart Rate Tracking System (Wearable)](https://github.com/Md-Asif-Hasan/Heart-Beat-monitoring-interface-and-alarm-system-for-health-issues)**  
+  MATLAB-based real-time BPM monitoring and alert system.
+
+- **[Voice Recognition Home Security System](https://github.com/Md-Asif-Hasan/Voice-Recognition-System-for-Home-Security-Project)**  
+  Speech-authentication-based access control system.
 
 ---
 
+<div align="center">
+
 ## 🔬 Research & Thesis
 
-**Published Paper** (Elsevier, 2026)  
-**"Explainable Multi-Sensor Machine Learning for Global Mapping of Urban Morphology and Its Implications for Urban Climate"**  
-An interpretable, multi-sensor data fusion framework for mapping urban morphological archetypes by coupling Sentinel-1 SAR and Sentinel-2 multispectral imagery across 20 cities on six continents.
+</div>
 
-**Undergraduate Thesis**  
-**"Variational Autoencoder-Based Keyframe Extraction and Video Summarization"**  
-Supervisor: *Dr. S. M. Mahbubur Rahman*, Professor, BUET
+### Published Paper — Elsevier, 2026
 
-**Papers (In Preparation):**
+**“Explainable Multi-Sensor Machine Learning for Global Mapping of Urban Morphology and Its Implications for Urban Climate”**
+
+An interpretable, multi-sensor data-fusion framework for mapping urban morphological archetypes by coupling Sentinel-1 SAR and Sentinel-2 multispectral imagery across 20 cities on six continents.
+
+### Undergraduate Thesis
+
+**“Variational Autoencoder-Based Keyframe Extraction and Video Summarization”**  
+Supervisor: **Dr. S. M. Mahbubur Rahman**, Professor, BUET
+
+### Papers in Preparation
+
 - VAE-Based Keyframe Estimation for Long Video Summarization
 - Enhanced TecoGAN for Video Super-Resolution
 - Lightweight Encoder for Medical Imaging Efficiency
 
 ---
 
-## 📜 Certifications & Exams
+<div align="center">
+
+## 📜 Certifications & Examinations
+
+</div>
 
 - **IELTS:** Listening 7.5 · Reading 8.5 · Writing 7.5 · Speaking 6.5
-- **GRE:** 304 (Verbal 160 · Quant 144 · AWA 3.5)
-- **CS50x** – Harvard University
-- **Legacy JavaScript Algorithms and Data Structures** – freeCodeCamp
-- **Exploratory Data Analysis for Machine Learning** – IBM
-- **IBM Cloud Essentials** – Cognitive Class
+- **GRE:** 304 — Verbal 160 · Quantitative 144 · Analytical Writing 3.5
+- **CS50x** — Harvard University
+- **Legacy JavaScript Algorithms and Data Structures** — freeCodeCamp
+- **Exploratory Data Analysis for Machine Learning** — IBM
+- **IBM Cloud Essentials** — Cognitive Class
 
 ---
+
+<div align="center">
 
 ## 🏆 Activities & Achievements
 
-- 🥇 **Regional Science Olympiad** – 1st Place (2018)
-- 🧪 Regional Physics Olympiad – 11th Place (2017)
-- ⚗️ Regional Chemistry Olympiad – 6th Place (2017)
-- 🎤 Mentor, English Language Club – formal and informal speaking practice
+</div>
+
+- 🥇 **Regional Science Olympiad** — 1st Place, 2018
+- 🧪 **Regional Physics Olympiad** — 11th Place, 2017
+- ⚗️ **Regional Chemistry Olympiad** — 6th Place, 2017
+- 🎤 **Mentor**, English Language Club — Formal and informal speaking practice
 
 ---
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
-I'm open to **research collaborations, ML projects, embedded systems work, and software roles**.
+I'm open to **research collaborations, machine learning projects, embedded systems work, and software engineering roles**.
 
-- 📧 Email: **h.asif26@yahoo.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/md-asif-hasan-b68b66201/
-- 💻 GitHub: https://github.com/Md-Asif-Hasan
+[![Email](https://img.shields.io/badge/Email-h.asif26%40yahoo.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:h.asif26@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-asif-hasan-b68b66201/)
+[![GitHub](https://img.shields.io/badge/GitHub-Md--Asif--Hasan-181717?style=flat&logo=github&logoColor=white)](https://github.com/Md-Asif-Hasan)
 
 ---
 
-<p align="center">
-  Built with ❤️ | Learning • Research • Shipping
-</p>
+Built with ❤️ · Learning · Research · Shipping
+
+</div>
