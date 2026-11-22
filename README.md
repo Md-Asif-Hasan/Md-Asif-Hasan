@@ -2,9 +2,7 @@
   Profile README for Md Asif Hasan
   Repo name must match GitHub username exactly
 -->
-<p align="center">
 # MD ASIF HASAN
-</p>
 
 <p align="center">
   <a href="https://github.com/Md-Asif-Hasan"><img src="https://img.shields.io/github/followers/Md-Asif-Hasan?label=Follow&style=social" /></a>
